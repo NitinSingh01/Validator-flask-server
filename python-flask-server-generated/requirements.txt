@@ -1,0 +1,8 @@
+connexion == 2.7.0
+python_dateutil == 2.8.1
+setuptools >= 21.0.0
+Werkzeug == 0.16.1
+Flask
+Flask-RESTful
+jsonschema
+MySQL-connector
